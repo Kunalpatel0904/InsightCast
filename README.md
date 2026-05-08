@@ -1,4 +1,3 @@
-# InsightCast
 # InsightCast — Smart Business Analytics Dashboard
 ## Kunal Patel (70012200155) | NMIMS MPSTME Shirpur | 2025-26
 
